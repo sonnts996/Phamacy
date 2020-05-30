@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fr_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:clickable="true"
+    tools:context=".MainActivity"
+    android:focusable="true">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp"
+        android:shrinkColumns="*"
+        android:stretchColumns="*"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/btn_list_checklist"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:background="@drawable/border_button"
+                android:drawableTop="@drawable/ic_ds_hang_resize"
+                android:inputType="textMultiLine|textImeMultiLine"
+                android:padding="8dp"
+                android:text="@string/ds_phieu_kiem_ke"
+                android:textAllCaps="false"
+                android:textColor="#060D36"
+                app:layout_gravity="fill"
+                tools:ignore="ButtonStyle,TextViewEdits" />
+
+            <Button
+                android:id="@+id/btn_checklist"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:background="@drawable/border_button"
+                android:drawableTop="@drawable/ic_my_kiemketay_resize"
+                android:inputType="textMultiLine|textImeMultiLine"
+                android:padding="8dp"
+                android:text="@string/kiem_ke_tay"
+                android:textAllCaps="false"
+                android:textColor="#060D36"
+                app:layout_gravity="fill"
+                tools:ignore="ButtonStyle,TextViewEdits" />
+
+            <Button
+                android:id="@+id/btn_histories"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:background="@drawable/border_button"
+                android:drawableTop="@drawable/ic_my_lichsukiemke_resize"
+                android:inputType="textMultiLine|textImeMultiLine"
+                android:padding="8dp"
+                android:text="@string/lich_su_kiem_ke"
+                android:textAllCaps="false"
+                android:textColor="#060D36"
+                app:layout_gravity="fill"
+                tools:ignore="ButtonStyle,TextViewEdits" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/btn_confirm"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:background="@drawable/border_button"
+                android:drawableTop="@drawable/ic_my_confirm_resize"
+                android:inputType="textMultiLine|textImeMultiLine"
+                android:padding="8dp"
+                android:text="@string/xac_nhan_kiem_ke"
+                android:textAllCaps="false"
+                android:textColor="#060D36"
+                app:layout_gravity="fill"
+                tools:ignore="ButtonStyle,TextViewEdits" />
+
+            <Button
+                android:id="@+id/btn_inventory"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:background="@drawable/border_button"
+                android:drawableTop="@drawable/ic_my_inventory_resize"
+                android:inputType="textMultiLine|textImeMultiLine"
+                android:padding="8dp"
+                android:text="@string/xem_ton_kho"
+                android:textAllCaps="false"
+                android:textColor="#060D36"
+                app:layout_gravity="fill"
+                tools:ignore="ButtonStyle,TextViewEdits" />
+        </TableRow>
+
+    </TableLayout>
+
+</android.support.constraint.ConstraintLayout>

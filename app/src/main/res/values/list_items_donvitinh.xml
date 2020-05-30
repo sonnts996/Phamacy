@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="donviTinh">
+        <item>Vĩ</item>
+        <item>Hộp</item>
+        <item>Viên</item>
+    </string-array>
+</resources>

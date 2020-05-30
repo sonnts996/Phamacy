@@ -1,0 +1,6 @@
+Dinh nghia lai cot trong class SQL_DefineColumn, sap xep cac cot theo bang, chuyen toan bo cot trong cac class table vào SQL_DefineColumn.
+Chuyen doi cursor sang xcursor su dung hashmap de cach ly database voi client
+Hoan thanh mang hinh xac nhan kiem ke
+Gom code
+-----
+da su den product manager

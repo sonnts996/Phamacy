@@ -1,0 +1,59 @@
+<resource>
+    <string>tai khoan (account)
+- id
+- username								7
+- password
+
+list don vi tinh (unit)
+- id
+- don vi			2
+
+list hang cho (queue) 
+- id
+- hang thuong				3
+
+list loai hang (categories)
+- id
+- loai hang					4
+
+list kho hang (warehouse)
+- id
+- kho hang						5
+
+san pham (product)
+- id ma san pham	1
+- ten san pham                              8
+
+bang kiem ke (checklist)
+- id phieu							6
+- ma san pham 		1
+- ten san pham                              8
+- barcode	*
+- so luong	*
+- don vi	*		2
+- kho hang	*					5
+- hang cho	*				4
+- so luong ton	*
+- so luong lech	*
+- loai hang	*			3
+- date		*
+
+bang lich su (history checklist)
+- id
+- id phieu							6
+- ma san pham		1
+- ten san pham                              8
+- barcode	*
+- so luong	*
+- don vi	*
+- kho hang	*
+- hang cho	*
+- so luong ton	*
+- so luong lech	*
+- loai hang	*
+- date		*
+- so lan dong bo
+- thoi gian dong bo
+- nguoi dong bo								7
+    </string>
+</resource>

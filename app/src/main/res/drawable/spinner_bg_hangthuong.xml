@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <layer-list>
+            <item android:drawable="@drawable/spinner_bg_dropdown"/>
+            <item android:drawable="@drawable/ic_my_hangthuong" android:gravity="center_vertical|left" android:left="8dp" android:right="8dp" />
+            <item android:drawable="@drawable/border_text"/>
+        </layer-list>
+    </item>
+</selector>

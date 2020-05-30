@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:clickable="true"
+    android:focusable="true">
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tab_bar_histories"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:tabGravity="fill"
+        app:tabIndicatorColor="@color/colorPrimaryDark"
+        app:tabIndicatorGravity="bottom">
+
+        <android.support.design.widget.TabItem
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/chi_tiet" />
+
+        <android.support.design.widget.TabItem
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tong_hop" />
+
+    </android.support.design.widget.TabLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tab_bar_histories">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/linearLayout2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#ccc"
+                android:orientation="horizontal"
+                android:padding="8dp">
+
+                <TextView
+                    android:id="@+id/textView25"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0"
+                    android:text="@string/tong_dong" />
+
+                <TextView
+                    android:id="@+id/view_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingLeft="4dp"
+                    android:text="0"
+                    tools:ignore="HardcodedText,RtlSymmetry"
+                    android:paddingStart="4dp" />
+
+                <TextView
+                    android:id="@+id/view_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:gravity="end" />
+            </LinearLayout>
+
+            <TableLayout
+                android:id="@+id/table_data"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:isScrollContainer="true"
+                android:overScrollMode="ifContentScrolls"
+                android:stretchColumns="1, 2, 7, 5, 4, 6"
+                android:verticalScrollbarPosition="defaultPosition">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@color/colorPrimary"
+                    android:gravity="center"
+                    android:minHeight="45dp"
+                    tools:ignore="UselessParent">
+
+                    <TextView
+                        android:id="@+id/view_pid"
+                        android:layout_width="45dp"
+                        android:layout_height="wrap_content"
+                        android:layout_column="0"
+                        android:layout_gravity="center"
+                        android:layout_weight="0"
+                        android:width="45dp"
+                        android:ellipsize="middle"
+                        android:gravity="center|center_horizontal|center_vertical"
+                        android:minHeight="45dp"
+                        android:padding="4dp"
+                        android:singleLine="false"
+                        android:text="@string/masp"
+                        android:textColor="#FFFFFF"
+                        android:textIsSelectable="false"
+                        android:textSize="13sp"
+                        tools:ignore="RtlHardcoded,TextViewEdits" />
+
+                    <TextView
+                        android:id="@+id/view_barcode"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_column="1"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:ellipsize="middle"
+                        android:gravity="center|center_horizontal|center_vertical"
+                        android:minHeight="45dp"
+                        android:singleLine="false"
+                        android:text="@string/barcode"
+                        android:textColor="#FFFFFF"
+                        android:textSize="13sp"
+                        tools:ignore="RtlHardcoded,TextViewEdits" />
+
+                    <TextView
+                        android:id="@+id/view_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_column="2"
+                        android:layout_gravity="center"
+                        android:layout_weight="2"
+                        android:ellipsize="middle"
+                        android:gravity="center|center_horizontal|center_vertical"
+                        android:inputType="textMultiLine"
+                        android:minHeight="45dp"
+                        android:padding="4dp"
+                        android:singleLine="false"
+                        android:text="@string/ten_thuoc"
+                        android:textColor="#FFFFFF"
+                        android:textIsSelectable="false"
+                        android:textSize="13sp"
+                        tools:ignore="RtlHardcoded,TextViewEdits" />
+
+                    <TextView
+                        android:id="@+id/view_user"
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_column="3"
+                        android:layout_gravity="center"
+                        android:layout_weight="3"
+                        android:ellipsize="middle"
+                        android:gravity="center|center_horizontal|center_vertical"
+                        android:minHeight="45dp"
+                        android:padding="4dp"
+                        android:singleLine="false"
+                        android:text="@string/user"
+                        android:textColor="#FFFFFF"
+                        android:textIsSelectable="false"
+                        android:textSize="13sp"
+                        tools:ignore="RtlHardcoded,TextViewEdits" />
+
+                    <TextView
+                        android:id="@+id/view_real"
+                        android:layout_width="30dp"
+                        android:layout_height="wrap_content"
+                        android:layout_column="4"
+                        android:layout_gravity="center"
+                        android:layout_weight="4"
+                        android:ellipsize="middle"
+                        android:gravity="center|center_horizontal|center_vertical"
+                        android:minHeight="45dp"
+                        android:padding="4dp"
+                        android:singleLine="false"
+                        android:text="@string/sl"
+                        android:textColor="#FFFFFF"
+                        android:textIsSelectable="false"
+                        android:textSize="13sp"
+                        tools:ignore="RtlHardcoded,TextViewEdits" />
+
+                    <TextView
+                        android:id="@+id/view_unit"
+                        android:layout_width="40dp"
+                        android:layout_height="wrap_content"
+                        android:layout_column="5"
+                        android:layout_gravity="center"
+                        android:layout_weight="5"
+                        android:ellipsize="middle"
+                        android:gravity="center|center_horizontal|center_vertical"
+                        android:minHeight="45dp"
+                        android:padding="4dp"
+                        android:singleLine="false"
+                        android:text="@string/dvt"
+                        android:textColor="#FFFFFF"
+                        android:textIsSelectable="false"
+                        android:textSize="13sp"
+                        tools:ignore="RtlHardcoded,TextViewEdits" />
+
+                    <TextView
+                        android:id="@+id/view_synccount"
+                        android:layout_width="45dp"
+                        android:layout_height="wrap_content"
+                        android:layout_column="6"
+                        android:layout_gravity="center"
+                        android:layout_weight="6"
+                        android:ellipsize="middle"
+                        android:freezesText="false"
+                        android:gravity="center|center_horizontal|center_vertical"
+                        android:inputType="textMultiLine"
+                        android:minHeight="45dp"
+                        android:padding="4dp"
+                        android:singleLine="false"
+                        android:text="@string/so_lan_dong_bo"
+                        android:textColor="#FFFFFF"
+                        android:textIsSelectable="false"
+                        android:textSize="10sp"
+                        tools:ignore="RtlHardcoded,SmallSp,TextViewEdits" />
+
+                    <TextView
+                        android:id="@+id/view_warehouse"
+                        android:layout_width="45dp"
+                        android:layout_height="wrap_content"
+                        android:layout_column="7"
+                        android:layout_gravity="center"
+                        android:layout_weight="7"
+                        android:ellipsize="middle"
+                        android:gravity="center|center_horizontal|center_vertical"
+                        android:minHeight="45dp"
+                        android:padding="4dp"
+                        android:singleLine="false"
+                        android:text="@string/kho"
+                        android:textColor="#FFFFFF"
+                        android:textIsSelectable="false"
+                        android:textSize="13sp"
+                        tools:ignore="RtlHardcoded,TextViewEdits" />
+                </TableRow>
+
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

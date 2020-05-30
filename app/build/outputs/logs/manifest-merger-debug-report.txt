@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\2998f64ea20ba3086ac529f7a4daf82b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\fae2c2e6da418eaf8b1c7044694acdee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\1b0e259752e9247cabd3893755f47b39\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\5de944097937e9ae95b6053f12f1b123\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\e9cc8096bf18d1905a251b69f2f9ae3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\b08443c5abe4cdfd70d15dd8ddeec87f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\fca0fdddc5051d04af0ab2370d1aac7b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\d94c9faf6daa2cbcdba74840ee654c0e\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\d4ff783135fb138d90e070aec157ecd3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\8d0dfa50cb0528263255fb55fd3c1202\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\1ea3977e38a1897111782fbe6f514cfb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\237f2b5c769fe1e432857796130605b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\fe0b36bc80a0ed9a482ac3a282f8e210\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\f9c4843c775a7170d6d1a61ff04b5299\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\30e05ab7e7463ed285f6ae8c3c9d19e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\69471b501b18f094fdf8aad167a48c22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\2c7969c949882f84aa19211387928d25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\6232a0ecf6569fd8d9185b3ba5867ba5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\1f7c894bf9848bbdc53e695130fa08df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\07a2b5cb8705bdf64d112ce6d95fbd31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\3e03ae241b1c3879d8c90ee140f28a4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\31d39f25bc20a7eaba2cabd60dd2ce8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\743836bdc9d4703aeeb5ffa0e00b84a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\240dd281188273de66458cfb2d0d1427\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\b4ad760f417f0326c5a5993e94675e4c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\ded9aa27c1912c1c2160429a0cf2d7ad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\ee7a650573960554c18adc786867e25d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\e62c8158b61d55b07fa8680302a2e532\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\f18b7b00f83ca54a152bf83878f9e4b5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\96f0c07b97c0abcba9df026e641ef0b3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\affec17c66bbb9e6932285e42d0821ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\f144cd08b5822c728bf6ac20003bf5f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\6268bf44d6bb8baa7bbcd7ef5afda133\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\17c4dd14ecbcf34f3be1b65e9231887c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\ea19f85a876b044616eb9c21c84892f0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.CAMERA
+ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:7:22-62
+application
+ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\2998f64ea20ba3086ac529f7a4daf82b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\2998f64ea20ba3086ac529f7a4daf82b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\1b0e259752e9247cabd3893755f47b39\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\1b0e259752e9247cabd3893755f47b39\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\d94c9faf6daa2cbcdba74840ee654c0e\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\d94c9faf6daa2cbcdba74840ee654c0e\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\240dd281188273de66458cfb2d0d1427\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\240dd281188273de66458cfb2d0d1427\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\b4ad760f417f0326c5a5993e94675e4c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\b4ad760f417f0326c5a5993e94675e4c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\240dd281188273de66458cfb2d0d1427\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:12:9-41
+	android:noHistory
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:10:9-34
+	tools:ignore
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:16:9-60
+	android:roundIcon
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.Pharmacy.MainActivity
+ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:configChanges
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:18:13-83
+	android:name
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:17:19-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\2998f64ea20ba3086ac529f7a4daf82b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\2998f64ea20ba3086ac529f7a4daf82b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\fae2c2e6da418eaf8b1c7044694acdee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\fae2c2e6da418eaf8b1c7044694acdee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\1b0e259752e9247cabd3893755f47b39\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\1b0e259752e9247cabd3893755f47b39\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\5de944097937e9ae95b6053f12f1b123\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\5de944097937e9ae95b6053f12f1b123\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\e9cc8096bf18d1905a251b69f2f9ae3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\e9cc8096bf18d1905a251b69f2f9ae3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\b08443c5abe4cdfd70d15dd8ddeec87f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\b08443c5abe4cdfd70d15dd8ddeec87f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\fca0fdddc5051d04af0ab2370d1aac7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\fca0fdddc5051d04af0ab2370d1aac7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\d94c9faf6daa2cbcdba74840ee654c0e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\d94c9faf6daa2cbcdba74840ee654c0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\d4ff783135fb138d90e070aec157ecd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\d4ff783135fb138d90e070aec157ecd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\8d0dfa50cb0528263255fb55fd3c1202\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\8d0dfa50cb0528263255fb55fd3c1202\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\1ea3977e38a1897111782fbe6f514cfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\1ea3977e38a1897111782fbe6f514cfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\237f2b5c769fe1e432857796130605b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\237f2b5c769fe1e432857796130605b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\fe0b36bc80a0ed9a482ac3a282f8e210\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\fe0b36bc80a0ed9a482ac3a282f8e210\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\f9c4843c775a7170d6d1a61ff04b5299\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\f9c4843c775a7170d6d1a61ff04b5299\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\30e05ab7e7463ed285f6ae8c3c9d19e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\30e05ab7e7463ed285f6ae8c3c9d19e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\69471b501b18f094fdf8aad167a48c22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\69471b501b18f094fdf8aad167a48c22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\2c7969c949882f84aa19211387928d25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\2c7969c949882f84aa19211387928d25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\6232a0ecf6569fd8d9185b3ba5867ba5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\6232a0ecf6569fd8d9185b3ba5867ba5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\1f7c894bf9848bbdc53e695130fa08df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\1f7c894bf9848bbdc53e695130fa08df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\07a2b5cb8705bdf64d112ce6d95fbd31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\07a2b5cb8705bdf64d112ce6d95fbd31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\3e03ae241b1c3879d8c90ee140f28a4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\3e03ae241b1c3879d8c90ee140f28a4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\31d39f25bc20a7eaba2cabd60dd2ce8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\31d39f25bc20a7eaba2cabd60dd2ce8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\743836bdc9d4703aeeb5ffa0e00b84a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\743836bdc9d4703aeeb5ffa0e00b84a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\240dd281188273de66458cfb2d0d1427\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\240dd281188273de66458cfb2d0d1427\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\b4ad760f417f0326c5a5993e94675e4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\b4ad760f417f0326c5a5993e94675e4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\ded9aa27c1912c1c2160429a0cf2d7ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\ded9aa27c1912c1c2160429a0cf2d7ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\ee7a650573960554c18adc786867e25d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\ee7a650573960554c18adc786867e25d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\e62c8158b61d55b07fa8680302a2e532\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\e62c8158b61d55b07fa8680302a2e532\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\f18b7b00f83ca54a152bf83878f9e4b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\f18b7b00f83ca54a152bf83878f9e4b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\96f0c07b97c0abcba9df026e641ef0b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\96f0c07b97c0abcba9df026e641ef0b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\affec17c66bbb9e6932285e42d0821ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\affec17c66bbb9e6932285e42d0821ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\f144cd08b5822c728bf6ac20003bf5f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\f144cd08b5822c728bf6ac20003bf5f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\6268bf44d6bb8baa7bbcd7ef5afda133\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\6268bf44d6bb8baa7bbcd7ef5afda133\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\17c4dd14ecbcf34f3be1b65e9231887c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\17c4dd14ecbcf34f3be1b65e9231887c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\ea19f85a876b044616eb9c21c84892f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\ea19f85a876b044616eb9c21c84892f0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\MegasyncProject\Android\Phamacy Project\Pharmacy\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\d94c9faf6daa2cbcdba74840ee654c0e\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\d94c9faf6daa2cbcdba74840ee654c0e\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\d94c9faf6daa2cbcdba74840ee654c0e\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\d94c9faf6daa2cbcdba74840ee654c0e\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\NgoXu\.gradle\caches\transforms-2\files-2.1\d94c9faf6daa2cbcdba74840ee654c0e\AndroidManifest.xml:24:13-83
